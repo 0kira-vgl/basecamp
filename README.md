@@ -2,6 +2,8 @@
 
 Este é um projeto simples de consulta de CEP desenvolvido com HTML e JavaScript, utilizando a API do ViaCEP para obter informações de endereços.
 
+- [Visite o Consultor de CEP](https://consultandocep.vercel.app/)
+
 ## Funcionalidades
 
 - Consulta de CEP para obter informações de endereço.
@@ -29,4 +31,4 @@ Este é um projeto simples de consulta de CEP desenvolvido com HTML e JavaScript
 |-- README.md
 ```
 
-[![Descrição da Imagem](./assets/lupa.ico)](https://github.com/0kira-vgl)
+[![Descrição da Imagem](https://github.com/0kira-vgl/basecamp/blob/main/assets/screen.PNG?raw=true)](https://consultandocep.vercel.app/)
